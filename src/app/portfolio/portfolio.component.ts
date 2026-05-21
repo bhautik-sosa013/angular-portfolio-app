@@ -63,7 +63,7 @@ export class PortfolioComponent {
     {
       id: 6,
       name: 'Angular Portfolio App',
-      summary: 'A responsive and dynamic portfolio website designed and developed by Barbara Calderon.',
+      summary: 'A responsive and dynamic portfolio website designed and developed by Speed..',
       description: 'This portfolio is a dynamic and responsive web application built using Angular, showcasing my skills and projects as a software developer. The design and development of this portfolio aimed to provide a seamless user experience across different devices while highlighting various aspects of my professional journey. The potfolio has sections of home, about, education, portfolio projects and contact information. Key features are its dynamic content, the responsive design and modern aesthetics.',
       projectLink: 'https://github.com/barbaracalderon/angular-portfolio-app',
       tags: [Tag.ANGULAR, Tag.TYPESCRIPT, Tag.HTML5, Tag.CSS3, Tag.BOOTSTRAP],
